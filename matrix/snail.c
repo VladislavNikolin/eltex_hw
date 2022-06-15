@@ -9,13 +9,6 @@ int main()
     int j = 0;
     int counter = 0;
 
-    for (int i = 0; i < N; i++)
-    {
-        for (int j = 0; j < N; j++)
-        {
-            matrix[i][j] = 0;
-        }
-    }
 
     for (int k = 0; k < N; k = k + 2)
     {
