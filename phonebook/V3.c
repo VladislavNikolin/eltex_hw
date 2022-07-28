@@ -1,4 +1,4 @@
-//Справочник функции+
+//Справочник функции+динамическая память
 #include <stdio.h>
 #include <stdlib.h>
 #include <malloc.h>
